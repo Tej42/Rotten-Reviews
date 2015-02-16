@@ -1,2 +1,2 @@
 # Rotten-Reviews
-This is a android mobile and uses Rotten Tomatoes API
+This is an android mobile app and uses Rotten Tomatoes API
